@@ -1,3 +1,3 @@
 function hichat() {
-	// hi
+	var char1;
 }
