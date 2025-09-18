@@ -5,6 +5,4 @@ function hichat() {
 
 	char1 = char2 + char3;
 	char2 = char1 + char3;
-
-	var char4;
 }
